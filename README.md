@@ -4,9 +4,11 @@
 
 ## 실행
 
-1. **[HTML 시안 ZIP](shortB-html.zip)**을 다운로드해 압축을 풉니다.
-2. 압축을 푼 `shortB-html` 폴더에서 아래 명령으로 실행합니다.
-3. 개발 소스는 **[React 소스 ZIP](shortB-react-source.zip)**에 있습니다. 압축을 풀고 `npm ci`, `npm run dev`로 시작합니다.
+저장소를 다운로드한 뒤 루트 폴더에서 아래 명령으로 실행합니다.
+
+- 빠른 전달용: [HTML ZIP](shortB-html.zip)
+- 개발 코드: [react 폴더](react/) / [React ZIP](shortB-react-source.zip)
+- React 개발: `cd react`, `npm ci`, `npm run dev`
 
 ![오늘 목표 수정 화면](shortB-goal-updated.png)
 
